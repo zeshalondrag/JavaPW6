@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " # ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "sapphiremod:sapphire"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sapphiremod:sapphire_sword"
+  }
+}

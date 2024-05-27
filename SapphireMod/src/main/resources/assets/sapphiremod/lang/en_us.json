@@ -1,0 +1,25 @@
+{
+ "item.sapphiremod.sapphire": "Сапфир",
+ "item.sapphiremod.raw_sapphire": "Необработанный сапфир",
+
+ "block.sapphiremod.sapphire_block": "Блок сапфира",
+ "block.sapphiremod.raw_sapphire_block": "Кусок необработанного сапфира",
+
+ "block.sapphiremod.sapphire_ore": "Сапфировая руда",
+ "block.sapphiremod.deepslate_sapphire_ore": "Глубокая сланцево-сапфировая руда",
+ "block.sapphiremod.end_stone_sapphire_ore": "Сапфировая руда края",
+ "block.sapphiremod.nether_sapphire_ore": "Адская сапфировая руда",
+
+ "item.sapphiremod.sapphire_sword": "Сапфировый меч",
+ "item.sapphiremod.sapphire_pickaxe": "Сапфировая кирка",
+ "item.sapphiremod.sapphire_axe": "Сапфрировый топор",
+ "item.sapphiremod.sapphire_shovel": "Сапфировая лопата",
+ "item.sapphiremod.sapphire_hoe": "Сапфировая мотыга",
+
+ "item.sapphiremod.sapphire_helmet": "Сапфировый шлем",
+ "item.sapphiremod.sapphire_chestplate": "Сапфировый нагрудник",
+ "item.sapphiremod.sapphire_leggings": "Сапфировые поножи",
+ "item.sapphiremod.sapphire_boots": "Сапфировые ботинки",
+
+ "creativetab.sapphire_tab": "Sapphire Tab"
+}
